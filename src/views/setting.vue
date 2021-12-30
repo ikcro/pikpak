@@ -73,9 +73,9 @@
       </n-collapse-item>
        <n-collapse-item title="PC端IDM支持" name="4">
         <n-space>
-          <a href="https://github.com/MotooriKashin/ef2/releases" target="_blank" class="n-button">下载支持插件</a>
-          <a href="https://url71.ctfile.com/f/21226171-531688310-489b35" target="_blank" class="n-button">下载支持插件2（密码pikpak）</a>
-          <a href="https://www.tjsky.net/?p=220#PCIDM" target="_blank" class="n-button">使用教程</a><p>先用第一个下载地址，如果你实在无法访问github再使用第二个下载地址，调用IDM下载需要配合“自定义菜单”功能实现，请查看上方的使用教程</p>        
+          <a href="https://github.com/MotooriKashin/ef2/releases" target="_blank" class="n-button">地址一：下载支持插件</a>
+          <a href="https://url71.ctfile.com/f/21226171-531688310-489b35" target="_blank" class="n-button">地址二：下载支持插件（密码pikpak）</a>
+          <a href="https://www.tjsky.net/?p=220#PCIDM" target="_blank" class="n-button">使用教程</a><br>先用第一个下载地址，如果你实在无法访问github再使用第二个下载地址，调用IDM下载需要配合“自定义菜单”功能实现，请查看上方的使用教程        
         </n-space>
         <br />
       </n-collapse-item>
