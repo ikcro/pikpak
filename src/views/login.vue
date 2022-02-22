@@ -29,6 +29,16 @@
         </n-form>
         <div class="login-other">
           <n-space inline>
+          <n-tooltip >
+              <template #trigger>
+                <router-link to="sms">
+                  <n-icon color="#306eff" :size="32">
+                   <phone></phone>
+                  </n-icon>
+                </router-link>
+              </template>
+              手机登陆
+            </n-tooltip>
             <n-tooltip >
               <template #trigger>
                 <n-icon color="#306eff" :size="32">
