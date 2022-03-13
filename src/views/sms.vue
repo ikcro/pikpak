@@ -11,7 +11,7 @@
       <div class="login-box">
         <n-form label-align="left" style="padding-top: 30px;" :model="loginData" :rules="rules" ref="formRef" label-placement="left" label-width="0" class="login-form">
           <n-form-item path="email">
-            <n-input v-model:value="loginData.phone_number" placeholder="请输入区号加手机号如+8615113254562"></n-input>
+            <n-input v-model:value="loginData.phone_number" placeholder="请输入区号加手机号如+8618513579246"></n-input>
           </n-form-item>
           <n-form-item path="verification_code">
             <n-input-group>
