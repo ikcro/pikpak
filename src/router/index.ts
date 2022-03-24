@@ -56,7 +56,6 @@ const routes: RouteRecordRaw[] = [
     path: '/landing',
     name: 'landing',
     component: () => import('../views/landing.vue')
-    ]
   },
   {
     path: '/t/:id?',
