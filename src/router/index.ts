@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router'
 import Layout from '../views/layout/index.vue'
-const routes: Array<RouteRecordRaw> = [
+const routes: RouteRecordRaw[] = [
   {
     path: '/',
     name: 'home',
@@ -46,10 +46,16 @@ const routes: Array<RouteRecordRaw> = [
         component: () => import('../views/invited.vue')
       },
       {
-        path: 'share',
-        name: 'share',
-        component: () => import('../views/share.vue')
-      }
+         path: 'share',
+         name: 'share',
+         component: () => import('../views/share.vue')
+       }
+    ]
+  },
+  {
+    path: '/landing',
+    name: 'landing',
+    component: () => import('../views/landing.vue')
     ]
   },
   {
