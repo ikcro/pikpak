@@ -58,12 +58,13 @@
 import { ref } from '@vue/reactivity';
 import { NForm, NFormItem, NInput, NButton, useMessage, NCheckbox, useDialog, NTooltip, NIcon, NSpace } from 'naive-ui'
 import http from '../utils/axios'
-import { useRouter } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import { BrandGoogle, Phone } from '@vicons/tabler'
 const loginData = ref({
   username: '',
   password: ''
 })
+const route  = useRoute()
 const loading = ref(false)
 const router = useRouter()
 const message = useMessage()
@@ -88,6 +89,7 @@ const loginPost = () => {
         }
         message.success('登录成功')
         router.push('/')
+        router.push((route.query.redirect || '/') + '')
       }
     })
     .catch(() => {
