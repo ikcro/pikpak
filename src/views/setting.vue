@@ -65,9 +65,9 @@
         <n-space>
           <a href="https://mypikpak.com/" target="_blank" class="n-button">官方网站</a>
           <a href="https://t.me/pikpak_userservice" target="_blank" class="n-button">官方交流群</a>
-          <a href="https://github.com/mumuchenchen/pikpak" target="_blank" class="n-button">开源仓库</a>
+          <a href="https://github.com/tjsky/pikpak" target="_blank" class="n-button">开源仓库</a>
           <a href="https://www.tjsky.net/?p=201" target="_blank" class="n-button">部署教程</a>
-          <a href="https://t.me/mumuchenchen" target="_blank">问题反馈</a>
+          <a href="https://t.me/pikpak_userservice" target="_blank">问题反馈</a>
         </n-space>
         <br />
       </n-collapse-item>
