@@ -1,6 +1,6 @@
 {
   "name": "pikpak",
-  "version": "0.0.0",
+  "version": "1.23.0",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
