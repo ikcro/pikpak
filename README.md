@@ -6,8 +6,7 @@
  * [PikPak官方网页版](https://drive.mypikpak.com/)
 
 ## Demo
- * [MUMU大佬的原版](https://mumuchenchen.github.io/pikpak/)
- * [我的修改版](https://tjsky.github.io/pikpak/)
+ * [Demo](https://tjsky.github.io/pikpak/)
 
 ## 安装教程
   * [教程](https://www.tjsky.net/?p=201)
