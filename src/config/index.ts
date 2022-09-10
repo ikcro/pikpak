@@ -8,6 +8,7 @@ export const proxy = [
   'https://pikpak.hdddd.me',
   'https://pan.yooyi.tk',
   'https://pikpak.nsso.eu.org',
+  'https://pikpak-web.wnbh.cf',
 ]
 # 注意：这里的反代只保证能给网页版用，不一定适配下载加速
 
