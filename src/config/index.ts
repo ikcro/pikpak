@@ -10,6 +10,5 @@ export const proxy = [
   'https://pikpak.nsso.eu.org',
   'https://pikpak-web.wnbh.cf',
 ]
-# 注意：这里的反代只保证能给网页版用，不一定适配下载加速
 
 export const version = '1.23.0'
