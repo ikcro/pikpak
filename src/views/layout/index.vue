@@ -29,10 +29,10 @@
         </n-progress>
        <p style="margin-bottom: 0;">
           <n-tooltip placement="right">
-#              <template #trigger>
-#               <a style="color: #306eff;" target="_blank" href="https://mypikpak.com/drive/payment">首年会员订阅仅需179</a>
-#             </template>
-               【文件列表刷不出来？请依次点选：设置-代理设置-恢复默认-保存设置 后再刷新试试】 
+              <template #trigger>
+                <a style="color: #306eff;" target="_blank" href="https://www.tjsky.net/?p=220#i-21">文件列表刷不出来？</a>
+              </template>
+               【请依次点选：设置-代理设置-恢复默认-保存设置 后再刷新试试】 
           </n-tooltip>
        </p>
       </div>
@@ -75,9 +75,9 @@
         </n-icon>
       </template>
       <n-input placeholder="会员码" v-model:value="code"></n-input>
-      <p>
-        <a style="color: #306eff;" target="_blank" href="https://k.youshop10.com/JGDtoxg6">【0.33元/天】PikPak体验会员VIP年卡-可与7天免费会员码叠加-每人只能购买使用一次，感谢支持</a>
-      </p>
+#      <p>
+#         <a style="color: #306eff;" target="_blank" href="https://k.youshop10.com/JGDtoxg6">【0.33元/天】PikPak体验会员VIP年卡-可与7天免费会员码叠加-每人只能购买使用一次，感谢支持</a>
+#      </p>
 
       <template #action>
         <n-button :block="true" type="primary" :disabled="!code" @click="postCode">添加</n-button>
