@@ -28,12 +28,12 @@
           processing>
         </n-progress>
        <p style="margin-bottom: 0;">
-#          <n-tooltip placement="right">
- #             <template #trigger>
- #               <a style="color: #306eff;" target="_blank" href="https://mypikpak.com/drive/payment">首年会员订阅仅需179</a>
- #             </template>
-  #              【1年PikPak首年订阅仅需：179元！原价320元】 
-  #        </n-tooltip>
+          <n-tooltip placement="right">
+#              <template #trigger>
+#               <a style="color: #306eff;" target="_blank" href="https://mypikpak.com/drive/payment">首年会员订阅仅需179</a>
+#             </template>
+               【文件列表刷不出来？请依次点选：设置-代理设置-恢复默认-保存设置 后再刷新试试】 
+          </n-tooltip>
        </p>
       </div>
       <div class="sider-bottom" v-if="!collapsed" :class="{vip: vipInfo?.status === 'ok'}">
