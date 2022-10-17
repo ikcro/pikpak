@@ -8,6 +8,9 @@ export const proxy = [
   'https://pk.pikpakz.top',
   'https://cc123.cf',
   'https://cf-api.xswd.cf',
+  'https://pikpak.arielherself.xyz',
+  'https://f.nxcloud.uk',
+  'https://wkr.btstream.net',
 ]
 
 export const version = '1.23.0'
