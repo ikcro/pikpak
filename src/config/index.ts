@@ -1,7 +1,7 @@
 export const proxy = [
   'https://diii.tk',
-  'https://api-pikpak.tjsky-1.cf',
   'https://api-pikpak.tjsky.cf',
+  'https://api-pikpak.tjsky-1.cf',
   'https://pikpak.hdddd.me',
   'https://pan.yooyi.tk',
   'https://pikpak.nsso.eu.org',
@@ -13,4 +13,4 @@ export const proxy = [
   'https://wkr.btstream.net',
 ]
 
-export const version = '1.23.0'
+export const version = '1.23.1'
