@@ -10,6 +10,9 @@ export const proxy = [
   'https://pikpak.arielherself.xyz',
   'https://f.nxcloud.uk',
   'https://wkr.btstream.net',
+  'https://dns.firmant.me',
+  'https://p.emobiz.cn',
+  'https://pikpak.yang-s.online',
 ]
 
-export const version = '1.23.1'
+export const version = '1.25.2'
