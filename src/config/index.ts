@@ -10,7 +10,6 @@ export const proxy = [
   'https://f.nxcloud.uk',
   'https://wkr.btstream.net',
   'https://dns.firmant.me',
-  'https://p.emobiz.cn',
   'https://pikpak.yang-s.online',
   'https://pikpak.hongtonlow.ga',
   'https://pikpak.520936.xyz',
