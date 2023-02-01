@@ -1,4 +1,5 @@
 # PikPak 个人网页版
+![pikpak](https://socialify.git.ci/tjsky/pikpak/image?forks=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Light)
 
 ## 官方地址
 
